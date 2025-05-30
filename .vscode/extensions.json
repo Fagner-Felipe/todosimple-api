@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "vmware.vscode-boot-dev-pack",
+    "vscjava.vscode-java-pack",
+    "andrycf.java-code-generator",
+    "ritwickdey.liveserver"
+  ]
+}
